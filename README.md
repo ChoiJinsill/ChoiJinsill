@@ -1,6 +1,7 @@
 Hi, I'm Jinsil. I'm an enterprising and challenging developer heading for improved services.
 <hr>
- <img src="https://img.shields.io/badge/Java-EF2D5E?style=flat&logo=Java&logoColor=white"/>  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiJinsill&layout=compact)](https://github.com/ChoiJinsill/github-readme-stats)
 
 <!--
 **ChoiJinsill/ChoiJinsill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ <img src="https://img.shields.io/badge/Java-EF2D5E?style=flat&logo=Java&logoColor=white"/>  
+
 -->
 
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiJinsill&show_icons=true&theme=dracula) -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiJinsill&show_icons=true&theme=dracula) 
