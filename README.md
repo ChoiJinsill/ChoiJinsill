@@ -1,5 +1,6 @@
 Hi, I'm Jinsil. I'm an enterprising and challenging developer heading for improved services.
-<hr>
+#
+
 
 
 <!--
