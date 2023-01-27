@@ -2,7 +2,6 @@ Hi, I'm Jinsil. I'm an enterprising and challenging developer heading for improv
 #
 <div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiJinsill&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiJinsill&layout=compact&theme=tokyonight)
 </div>
 
 
