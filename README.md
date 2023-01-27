@@ -1,7 +1,6 @@
 Hi, I'm Jinsil. I'm an enterprising and challenging developer heading for improved services.
 #
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi,%20I'm%20Jinsil.&fontSize=90" />
 
 
 <!--
